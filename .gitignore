@@ -1,3 +1,6 @@
 MANIFEST.IN
 
 ren_algorithm.egg-info/
+
+__pycache__/
+*.pyc
